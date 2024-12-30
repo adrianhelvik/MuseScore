@@ -15143,87 +15143,87 @@ Bånd %1 på streng %2</translation>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="773"/>
         <source>Other dynamic</source>
-        <translation type="unfinished"/>
+        <translation>Annen dynamikk</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="775"/>
         <source>pppppp (Pianissississississimo)</source>
-        <translation type="unfinished"/>
+        <translation>pppppp (Pianissississississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="777"/>
         <source>ppppp (Pianississississimo)</source>
-        <translation type="unfinished"/>
+        <translation>ppppp (Pianississississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="779"/>
         <source>pppp (Pianissississimo)</source>
-        <translation type="unfinished"/>
+        <translation>pppp (Pianissississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="781"/>
         <source>ppp (Pianississimo)</source>
-        <translation type="unfinished"/>
+        <translation>ppp (Pianississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="783"/>
         <source>pp (Pianissimo)</source>
-        <translation type="unfinished"/>
+        <translation>pp (Pianissimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="785"/>
         <source>p (Piano)</source>
-        <translation type="unfinished"/>
+        <translation>p (Piano)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="788"/>
         <source>mp (Mezzo-piano)</source>
-        <translation type="unfinished"/>
+        <translation>mp (Mezzo-piano)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="790"/>
         <source>mf (Mezzo-forte)</source>
-        <translation type="unfinished"/>
+        <translation>mf (Mezzo-forte)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="793"/>
         <source>f (Forte)</source>
-        <translation type="unfinished"/>
+        <translation>f (Forte)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="795"/>
         <source>ff (Fortissimo)</source>
-        <translation type="unfinished"/>
+        <translation>ff (Fortissimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="797"/>
         <source>fff (Fortississimo)</source>
-        <translation type="unfinished"/>
+        <translation>ff (Fortississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="799"/>
         <source>ffff (Fortissississimo)</source>
-        <translation type="unfinished"/>
+        <translation>ffff (Fortissississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="801"/>
         <source>fffff (Fortississississimo)</source>
-        <translation type="unfinished"/>
+        <translation>fffff (Fortississississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="803"/>
         <source>ffffff (Fortissississississimo)</source>
-        <translation type="unfinished"/>
+        <translation>ffffff (Fortissississississimo)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="806"/>
         <source>fp (Fortepiano)</source>
-        <translation type="unfinished"/>
+        <translation>fp (Fortepiano)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="808"/>
         <source>pf (Pianoforte)</source>
-        <translation type="unfinished"/>
+        <translation>pf (Pianoforte)</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="811"/>
